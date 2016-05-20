@@ -15,7 +15,7 @@ namespace TicTacToe
             Console.WriteLine("Command line Tic Tac Toe");
             Console.WriteLine("Added this line with the master branch");
 
-            Console.WriteLine("Added this line with Feature1.1");
+            Console.WriteLine("Added this line with Feature 1.1 updated changes");
 
             Console.WriteLine("Press any key to continue and exit...");
             Console.ReadKey();
